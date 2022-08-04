@@ -1,0 +1,23 @@
+﻿organisation_code,system,url,called_by
+ALA,records,https://biocache-ws.ala.org.au/ws/occurrence/facets,"atlas_counts, show_all_values"
+ALA,records,https://biocache-ws.ala.org.au/ws/occurrences/search,atlas_counts
+ALA,records,https://biocache-ws.ala.org.au/ws/occurrences/offline/download,atlas_occurrences
+ALA,records,https://biocache-ws.ala.org.au/ws/occurrences/facets/download,atlas_species
+ALA,records,https://biocache-ws.ala.org.au/ws/assertions/codes,show_all_assertions
+ALA,records,https://biocache-ws.ala.org.au/ws/index/fields,show_all_fields
+ALA,records,https://biocache-ws.ala.org.au/ws/webportal/params,atlas_occurrences
+ALA,spatial,https://spatial.ala.org.au/ws/layers,show_all_fields
+ALA,species,https://bie-ws.ala.org.au/ws/species,atlas_taxonomy
+ALA,species,https://bie-ws.ala.org.au/ws/childConcepts/,atlas_taxonomy
+ALA,name-matching,https://namematching-ws.ala.org.au/api/getByTaxonID,search_identifiers
+ALA,name-matching,https://namematching-ws.ala.org.au/api/searchByClassification,search_taxa
+ALA,collections,https://collections.ala.org.au/ws/collection,show_all_collections
+ALA,collections,https://collections.ala.org.au/ws/dataResource,show_all_datasets
+ALA,collections,https://collections.ala.org.au/ws/dataProvider,show_all_providers
+ALA,data-quality,https://data-quality-service.ala.org.au/api/v1/quality/activeProfile,search_profile_attributes
+ALA,data-quality,https://data-quality-service.ala.org.au/api/v1/profiles,show_all_profiles
+ALA,doi,https://doi.ala.org.au/doi/[doi-string]/download,doi_download
+ALA,images,https://images.ala.org.au/ws/licence,show_all_licences
+ALA,images,https://images.ala.org.au/ws/image/,media_metadata
+ALA,logger,https://logger.ala.org.au/service/logger/reasons,show_all_reasons
+ALA,lists,https://lists.ala.org.au/ws/speciesList/,show_all_species_lists

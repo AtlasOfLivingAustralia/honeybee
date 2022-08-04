@@ -18,6 +18,7 @@ Imports:
     tibble
 Suggests:
     pkgdown
+    readr
 License: MPL-2.0
 BugReports: https://github.com/AtlasOfLivingAustralia/honeybee/issues
 Maintainer: Martin Westgate <martinjwestgate@gmail.com>

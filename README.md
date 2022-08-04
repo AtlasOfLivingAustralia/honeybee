@@ -16,3 +16,10 @@ It is called `honeybee` because it queries APIs of biodiversity infrastructures,
 and the members of the genus *Apis* are commonly known as honey bees. Further,
 honey bees are a globally distributed taxon, and `honeybee` queries atlases
 from around the world.
+
+## Intended features
+
+* take a set of query modifiers (possibly a `galah_call` object) and return a valid URL, or vector of URLs where a loop is involved.
+* `solr` or `elasticsearch` queries formatted automatically
+* map base URLs and paths to functions across different infrastructures, probably through a lookup table (though S3 could work too)
+* return sensible error messages for services that are unavailabe
